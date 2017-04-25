@@ -28,6 +28,7 @@ dependencies {
 }
 ```
 
+Algorithm
 -------
 Implemented fuzzy algorithm is placed in the directory: 
 ExoMedia-master/library/src/main/java/com/devbrackets/android/exomedia/core/algorithm/
