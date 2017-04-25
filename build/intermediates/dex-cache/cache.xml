@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\picasso-2.5.2_1eb8111dd204d9f2f4d88636dbd1a54df2d1c8d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\exploded-aar\com.devbrackets.android\playlistcore\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5d3928384025e6bea17d4236d70e6fea1cddddb">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\com.devbrackets.android-playlistcore-1.1.1_0eee2bca8a70de7034e3eb85ce74b45a7cbb188d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\exploded-aar\ExoMedia-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cec2f3913e6b0389c47169c0a106f0d7067bcc8c">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\ExoMedia-master-library-unspecified_7bcf80262ebe8b043f5ae285e0903b418e6cb111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.5\288101b16513158c2923ad3fb6161d1452b65e73\leakcanary-watcher-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.5_7dbead349bbcf4d4b79107f6d8e14ebd733a719c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\exploded-aar\ExoMedia-master\library\unspecified\jars\libs\jfuzzylite.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7348b9801b6c7e91b9abde3979c7c64e67e99f5f">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\jfuzzylite_492ba22ee8c17c557d39b1081d20faad65c601d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_1318c4c833938517aaf549867775fbfbcdd308bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_65788a1f25e3b6a4ce38b1dd1e6dee4afbaf8ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.5\3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f\leakcanary-analyzer-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.5_44d9597d76a444b2efa1d8456bf07ce3925a593e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_5d9acc42bff97f61edd5b4388aa8ea4ffff48d23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7a2672b3122b897a0751f327929ae405ea02bf7">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\com.squareup.leakcanary-leakcanary-android-1.5_ac526d12d0f255845bee66d7fc1c42b8dbaf6823.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.13\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152fd75220b7096ba098ba13224be2523d1276a9">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\com.google.android.exoplayer-exoplayer-r1.5.13_b7da57940dd8d51df908f078649b280b05b2ad12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_1fe0d044604f2a681020401a6c95ba796266c2db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_3f3e565a0788c3741b7f8a033e9b37c693e2571a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_b0ed564fa8058a8a88e52913d677a2dfa59d7675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_5138302ec3077715feda7b1526a0888de7cc4e19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_ebcf359916918fd83f76531dc6107b5382dd8f81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_d8c45dae9f3fc05874272d7d1e77f4cb6214f64b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_12616767410b9d3d8bf7c35540af35320636e75f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linh\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\2.0.3\640a438d2d415c056ca6a673ac26b183b044e160\haha-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="C:\Users\linh\Desktop\ExoMedia-master\demo\build\intermediates\pre-dexed\debug\haha-2.0.3_310e8d7cbd8cac81fdf4dc1752c77f45a518bf09.jar" />
+    </item>
+
+</items>

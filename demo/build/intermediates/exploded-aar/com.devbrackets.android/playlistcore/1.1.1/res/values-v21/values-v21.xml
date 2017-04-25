@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="playlistcore_big_notification_image_margin">5dp</dimen>
+    <dimen name="playlistcore_big_notification_image_size">118dp</dimen>
+    <dimen name="playlistcore_big_notification_secondary_image_size">39dp</dimen>
+    <dimen name="playlistcore_notification_image_margin">5dp</dimen>
+    <dimen name="playlistcore_notification_image_size">54dp</dimen>
+    <drawable name="playlistcore_notification_close">@drawable/playlistcore_ic_clear_black</drawable>
+    <drawable name="playlistcore_notification_next">@drawable/playlistcore_ic_skip_next_black</drawable>
+    <drawable name="playlistcore_notification_pause">@drawable/playlistcore_ic_pause_black</drawable>
+    <drawable name="playlistcore_notification_play">@drawable/playlistcore_ic_play_arrow_black</drawable>
+    <drawable name="playlistcore_notification_previous">@drawable/playlistcore_ic_skip_previous_black</drawable>
+    <style name="playlistcore_notification_content" parent="@android:style/TextAppearance.Material.Notification"/>
+    <style name="playlistcore_notification_title" parent="@android:style/TextAppearance.Material.Notification.Title"/>
+</resources>

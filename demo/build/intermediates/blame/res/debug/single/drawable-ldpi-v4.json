@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\playlistcore_ic_pause_white.png",
+        "source": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\exploded-aar\\com.devbrackets.android\\playlistcore\\1.1.1\\res\\drawable-ldpi-v4\\playlistcore_ic_pause_white.png"
+    },
+    {
+        "merged": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\playlistcore_ic_clear_black.png",
+        "source": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\exploded-aar\\com.devbrackets.android\\playlistcore\\1.1.1\\res\\drawable-ldpi-v4\\playlistcore_ic_clear_black.png"
+    },
+    {
+        "merged": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\playlistcore_ic_skip_previous_white.png",
+        "source": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\exploded-aar\\com.devbrackets.android\\playlistcore\\1.1.1\\res\\drawable-ldpi-v4\\playlistcore_ic_skip_previous_white.png"
+    },
+    {
+        "merged": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\playlistcore_ic_skip_next_black.png",
+        "source": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\exploded-aar\\com.devbrackets.android\\playlistcore\\1.1.1\\res\\drawable-ldpi-v4\\playlistcore_ic_skip_next_black.png"
+    },
+    {
+        "merged": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\playlistcore_ic_clear_white.png",
+        "source": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\exploded-aar\\com.devbrackets.android\\playlistcore\\1.1.1\\res\\drawable-ldpi-v4\\playlistcore_ic_clear_white.png"
+    },
+    {
+        "merged": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\playlistcore_ic_pause_black.png",
+        "source": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\exploded-aar\\com.devbrackets.android\\playlistcore\\1.1.1\\res\\drawable-ldpi-v4\\playlistcore_ic_pause_black.png"
+    },
+    {
+        "merged": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\playlistcore_ic_skip_previous_black.png",
+        "source": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\exploded-aar\\com.devbrackets.android\\playlistcore\\1.1.1\\res\\drawable-ldpi-v4\\playlistcore_ic_skip_previous_black.png"
+    },
+    {
+        "merged": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\playlistcore_ic_skip_next_white.png",
+        "source": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\exploded-aar\\com.devbrackets.android\\playlistcore\\1.1.1\\res\\drawable-ldpi-v4\\playlistcore_ic_skip_next_white.png"
+    },
+    {
+        "merged": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\playlistcore_ic_play_arrow_black.png",
+        "source": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\exploded-aar\\com.devbrackets.android\\playlistcore\\1.1.1\\res\\drawable-ldpi-v4\\playlistcore_ic_play_arrow_black.png"
+    },
+    {
+        "merged": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\playlistcore_ic_play_arrow_white.png",
+        "source": "C:\\Users\\linh\\Desktop\\ExoMedia-master\\demo\\build\\intermediates\\exploded-aar\\com.devbrackets.android\\playlistcore\\1.1.1\\res\\drawable-ldpi-v4\\playlistcore_ic_play_arrow_white.png"
+    }
+]

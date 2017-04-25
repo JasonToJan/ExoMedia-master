@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="playlistcore_big_notification_button_spacing">8dp</dimen>
+    <dimen name="playlistcore_big_notification_height">128dp</dimen>
+    <dimen name="playlistcore_big_notification_image_margin">0dp</dimen>
+    <dimen name="playlistcore_big_notification_image_size">@dimen/playlistcore_big_notification_height</dimen>
+    <dimen name="playlistcore_big_notification_secondary_image_size">42dp</dimen>
+    <dimen name="playlistcore_big_notification_text_pad">5dp</dimen>
+    <dimen name="playlistcore_min_button_height">44dp</dimen>
+    <dimen name="playlistcore_notification_image_margin">0dp</dimen>
+    <dimen name="playlistcore_notification_image_size">64dp</dimen>
+    <drawable name="playlistcore_notification_close">@drawable/playlistcore_ic_clear_white</drawable>
+    <drawable name="playlistcore_notification_next">@drawable/playlistcore_ic_skip_next_white</drawable>
+    <drawable name="playlistcore_notification_pause">@drawable/playlistcore_ic_pause_white</drawable>
+    <drawable name="playlistcore_notification_play">@drawable/playlistcore_ic_play_arrow_white</drawable>
+    <drawable name="playlistcore_notification_previous">@drawable/playlistcore_ic_skip_previous_white</drawable>
+    <style name="playlistcore_notification_content" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="playlistcore_notification_title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+</resources>
