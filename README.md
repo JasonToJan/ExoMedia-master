@@ -28,6 +28,10 @@ dependencies {
 }
 ```
 
+-------
+Implemented fuzzy algorithm is placed in the directory: 
+ExoMedia-master/library/src/main/java/com/devbrackets/android/exomedia/core/algorithm/
+
 Example
 -------
 The EMVideoView (EM for ExoMedia) can be added in your layout files like any other Android view.
